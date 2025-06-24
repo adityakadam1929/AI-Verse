@@ -1,4 +1,4 @@
-asexport default {
+export default {
   plugins: {
     tailwindcss: {},
     autoprefixer: {},
